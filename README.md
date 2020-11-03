@@ -18,3 +18,6 @@ Task 5(09-10-20): https://github.com/sanjoi-sethi/Natural-Language-Processing-Ta
 
 
 Task 6(16-10-20): https://github.com/sanjoi-sethi/Natural-Language-Processing-Tasks/blob/main/Task%206(16-10-20).ipynb
+
+
+Verb Phrase Task HW (29-10-20): https://github.com/sanjoi-sethi/Natural-Language-Processing-Tasks/tree/main/Verb%20Phrase%20Task
